@@ -13,17 +13,7 @@
 
 [Reviews/Books](#reviews)  
 [Datasets and Induced Bias Discussion](#tools)  
-[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
-[Representation learning](#representation-learning)  
-[Unsupervised variant prediction](#unsupervised-variant-prediction)  
-[Generative models](#generative-models)  
-[Predicting stability](#predicting-stability)  
-[Predicting structure from sequence](#predicting-structure-from-sequence)  
-[Predicting sequence from structure](#predicting-sequence-from-structure)  
-[Classification and annotation](#classification-and-annotation)  
-[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
-[Other supervised learning](#other-supervised-learning)
-
+[Uncertainty in Outputs]
 
 ### Reviews/Books
 
