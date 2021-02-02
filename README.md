@@ -39,6 +39,20 @@ Chenjing CaiChenjing Cai, Shiwei Wang, Youjun Xu, Weilin Zhang, Ke Tang, Qi Ouya
 *Journal of Medicinal Chemistry, July 2020.*  
 [[https://doi.org/10.1021/acs.jmedchem.9b02147](https://doi.org/10.1021/acs.jmedchem.9b02147)]
 
+
+**Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods.**  
+Eyke Hullermeier, Willem Waegeman
+*Preprint, Sept 2020.*  
+[[https://arxiv.org/abs/1910.09457](https://arxiv.org/abs/1910.09457)]
+
+
+**Random Forests.**  
+Leo Breiman.
+*Machine Learning, Oct 2001.*  
+[[https://doi.org/10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)]
+
+
+
 ### Datasets and Induced Bias Discussion: 
 
 **Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening.**  
@@ -184,5 +198,32 @@ Ines Filipa Martins, Ana L. Teixeira, Luis Pinheiro, Andre O. Falcao
 
 
 ### Uncertainty in Outputs: 
+
+
+**Three Useful Dimensions for Domain Applicability in QSAR Models Using Random Forest.**  
+Robert P. Sheridan
+*Journal of Chemical Information and Modeling, March 2012.*  
+[[https://doi.org/10.1021/ci300004n](https://doi.org/10.1021/ci300004n)]
+
+
+**Assessment of Machine Learning Reliability Methods for Quantifying the Applicability Domain of QSAR Regression Models.**  
+Marko Toplak, Rok Mocnik, Matija Polajnar, Zoran Bosnic, Lars Carlsson, Catrin Hasselgren, Janez Demsar, Scott Boyer, Blaz Zupan, Jonna Stalring.
+*Journal of Chemical Information and Modeling, Feb 2014.*  
+[[https://doi.org/10.1021/ci4006595](https://doi.org/10.1021/ci4006595)]
+
+
+**Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles.**  
+Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell.
+*Preprint, Nov 2017.*  
+[[https://arxiv.org/abs/1612.01474](https://arxiv.org/abs/1612.01474)]
+
+
+
+
+
+
+
+
+
 
 
