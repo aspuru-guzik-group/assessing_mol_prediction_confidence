@@ -52,6 +52,11 @@ Leo Breiman.
 [[https://doi.org/10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)]
 
 
+**Gaussian Processes for Machine Learning.**  
+Carl Edward Rasmussen, Christopher K. I. Williams.
+*MIT Press, Feb 2003.*  
+[[https://mitpress.mit.edu/books/gaussian-processes-machine-learning](https://mitpress.mit.edu/books/gaussian-processes-machine-learning)]
+
 
 ### Datasets and Induced Bias Discussion: 
 
@@ -218,12 +223,86 @@ Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell.
 [[https://arxiv.org/abs/1612.01474](https://arxiv.org/abs/1612.01474)]
 
 
+**Evaluating Scalable Uncertainty Estimation Methods for Deep Learning-Based Molecular Property Prediction.**  
+Gabriele Scalia, Colin A. Grambow, Barbara Pernici, Yi-Pei Li, William H. Green.
+*Journal of Chemical Information and Modeling, April 2020.*  
+[[https://doi.org/10.1021/acs.jcim.9b00975](https://doi.org/10.1021/acs.jcim.9b00975)]
 
 
+**Estimating the mean and variance of the target probability distribution.**  
+D.A. Nix, A.S. Weigend.
+*IEEE, Aug 2002.*  
+[[https://ieeexplore.ieee.org/document/374138](https://ieeexplore.ieee.org/document/374138)]
 
 
+**Modelling compound cytotoxicity using conformal prediction and PubChem HTS data.**  
+Fredrik Svensson, Ulf Norinder, Andreas Bender.
+*Toxicology Research, Oct 2016.*  
+[[https://doi.org/10.1039/C6TX00252H](https://doi.org/10.1039/C6TX00252H)]
 
 
+**Introducing Conformal Prediction in Predictive Modeling. A Transparent and Flexible Alternative to Applicability Domain Determination.**  
+Ulf Norinder, Lars Carlsson, Scott Boyer, Martin Eklund.
+*Journal of Chemical Information and Modeling, May 2014.*  
+[[https://doi.org/10.1021/ci5001168](https://doi.org/10.1021/ci5001168)]
 
 
+**Maximizing gain in high-throughput screening using conformal prediction.**  
+Fredrik Svensson, Avid M. Afzal, Ulf Norinder, Andreas Bender.
+*Journal of Cheminformatics, Feb 2018.*  
+[[https://doi.org/10.1186/s13321-018-0260-4](https://doi.org/10.1186/s13321-018-0260-4)]
+
+
+**Concepts and Applications of Conformal Prediction in Computational Drug Discovery.**  
+Fredrik Svensson, Avid M. Afzal, Ulf Norinder, Andreas Bender.
+*Preprint, Aug 2019.*  
+[[https://arxiv.org/abs/1908.035](https://arxiv.org/abs/1908.035)]
+
+
+**Machine learning in drug development: Characterizing the effect of 30 drugs on the QT interval using Gaussian process regression, sensitivity analysis, and uncertainty quantification.**  
+Francisco Sahli Costabal, Kristen Matsuno, Jiang Yao, Paris Perdikaris, Ellen Kuhl.
+*Computer Methods in Applied Mechanics and Engineering, May 2019.*  
+[[https://doi.org/10.1016/j.cma.2019.01.033](https://doi.org/10.1016/j.cma.2019.01.033)]
+
+
+**SAMPL6 challenge results from pKa predictions based on a general Gaussian process model.**  
+Caitlin C. Bannan, David L. Mobley, A. Geoffrey Skillman.
+*J Comput Aided Mol Des, Oct 2018.*  
+[[https://doi.org/10.1007/s10822-018-0169-z](https://doi.org/10.1007/s10822-018-0169-z)]
+
+
+**Leveraging Uncertainty in Machine Learning Accelerates Biological Discovery and Design.**  
+Brian Hie, Bryan D. Bryson, Bonnie Berger.
+*Cell, Nov 2020.*  
+[[https://doi.org/10.1016/j.cels.2020.09.007](https://doi.org/10.1016/j.cels.2020.09.007)]
+
+
+**Weight Uncertainty in Neural Networks.**  
+Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra.
+*Preprint, May 2015.*  
+[[https://arxiv.org/abs/1505.05424](https://arxiv.org/abs/1505.05424)]
+
+
+**Bayesian semi-supervised learning for uncertainty-calibrated prediction of molecular properties and active learning.**  
+Yao Zhang, Alpa A. Lee.
+*Chemical Science, July 2019.*  
+[[https://doi.org/10.1039/C9SC00616H](https://doi.org/10.1039/C9SC00616H)]
+
+
+**On Calibration of Modern Neural Networks.**  
+Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger.
+*Preprint, Aug 2017.*  
+[[https://arxiv.org/abs/1706.04599](https://arxiv.org/abs/1706.04599)]
+
+
+**Predicting Drug-Induced Liver Injury with Bayesian Machine Learning.**  
+Dominic P. Williams, Stanley E. Lazic, Alison J. Foster, Elizaveta Semenova, Paul Morgan.
+*Chem. Res. Toxicol., Sept 2019.*  
+[[https://doi.org/10.1021/acs.chemrestox.9b00264](https://doi.org/10.1021/acs.chemrestox.9b00264)]
+
+
+**A Bayesian neural network for toxicity prediction.**  
+ElizavetaSemenova, Dominic P.Williams, Avid M. Afzal, Stanley E. Lazicc.
+*Computational Toxicology, Nov 2020.*  
+[[https://doi.org/10.1016/j.comtox.2020.100133](https://doi.org/10.1016/j.comtox.2020.100133)]
 
