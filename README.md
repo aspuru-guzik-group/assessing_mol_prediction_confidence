@@ -70,6 +70,13 @@ Daniel Reker, Gisbert Schneider.
 [[https://doi.org/10.1016/j.drudis.2014.12.004](https://doi.org/10.1016/j.drudis.2014.12.004)]
 
 
+**A review on Gaussian Process Latent Variable Models.**  
+Ping Li, Songcan Chen.
+*CAAI, October 2016.*  
+[[https://doi.org/10.1016/j.trit.2016.11.004](https://doi.org/10.1016/j.trit.2016.11.004)]
+
+
+
 ### Datasets and Induced Bias Discussion: 
 
 **Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening.**  
@@ -374,6 +381,45 @@ Ryo Hanafusa, Takeshi Okadome.
 Michalis Titsias, Neil D. Lawrence.
 *International Conference on Artificial Intelligence and Statistics, 2010.*  
 [[http://proceedings.mlr.press/v9/titsias10a.html](http://proceedings.mlr.press/v9/titsias10a.html)]
+
+
+**Molecular machine learning with conformer ensembles.**  
+Simon Axelrod, Rafael Gomez-Bombarelli.
+*Preprint, Dec 2010.*  
+[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+
+
+
+### Binding Affinities
+
+
+**Molecular machine learning with conformer ensembles.**  
+Simon Axelrod, Rafael Gomez-Bombarelli.
+*Preprint, Dec 2010.*  
+[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+
+
+**Molecular machine learning with conformer ensembles.**  
+Simon Axelrod, Rafael Gomez-Bombarelli.
+*Preprint, Dec 2010.*  
+[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+
+
+**Molecular machine learning with conformer ensembles.**  
+Simon Axelrod, Rafael Gomez-Bombarelli.
+*Preprint, Dec 2010.*  
+[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+
+
+**Molecular machine learning with conformer ensembles.**  
+Simon Axelrod, Rafael Gomez-Bombarelli.
+*Preprint, Dec 2010.*  
+[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+
+
+
+
+
 
 
 
