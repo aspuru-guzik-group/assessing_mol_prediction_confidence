@@ -58,6 +58,18 @@ Carl Edward Rasmussen, Christopher K. I. Williams.
 [[https://mitpress.mit.edu/books/gaussian-processes-machine-learning](https://mitpress.mit.edu/books/gaussian-processes-machine-learning)]
 
 
+**Active Learning.**  
+Burr Settles.
+*Synthesis Lectures on Artificial Intelligence and Machine Learning, June 2012.*  
+[[https://doi.org/10.2200/S00429ED1V01Y201207AIM018](https://doi.org/10.2200/S00429ED1V01Y201207AIM018)]
+
+
+**Active-learning strategies in computer-assisted drug discovery.**  
+Daniel Reker, Gisbert Schneider.
+*Drug Discovery Today, April 2015.*  
+[[https://doi.org/10.1016/j.drudis.2014.12.004](https://doi.org/10.1016/j.drudis.2014.12.004)]
+
+
 ### Datasets and Induced Bias Discussion: 
 
 **Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening.**  
@@ -305,4 +317,71 @@ Dominic P. Williams, Stanley E. Lazic, Alison J. Foster, Elizaveta Semenova, Pau
 ElizavetaSemenova, Dominic P.Williams, Avid M. Afzal, Stanley E. Lazicc.
 *Computational Toxicology, Nov 2020.*  
 [[https://doi.org/10.1016/j.comtox.2020.100133](https://doi.org/10.1016/j.comtox.2020.100133)]
+
+
+**Predicting Drug Safety and Communicating Risk: Benefits of a Bayesian Approach.**  
+Stanley E Lazic, Nicholas Edmunds, Christopher E Pollard.
+*Toxicological Sciences, Nov 2017.*  
+[[https://doi.org/10.1093/toxsci/kfx236](https://doi.org/10.1093/toxsci/kfx236)]
+
+
+**Active learning for computational chemogenomics.**  
+Daniel Reker, Petra Schneider, Gisbert Schneider, JB Brown.
+*Future Medicinal Chemistry, March 2017.*  
+[[https://doi.org/10.4155/fmc-2016-0197](https://doi.org/10.4155/fmc-2016-0197)]
+
+
+**A Bayesian graph convolutional network for reliable prediction of molecular properties with uncertainty quantification.**  
+Seongok Ryu, Yongchan Kwon, Woo Youn Kim.
+*Chemical Science, July 2019.*  
+[[https://doi.org/10.1039/C9SC01992H](https://doi.org/10.1039/C9SC01992H)]
+
+
+**Uncertainty Quantification Using Neural Networks for Molecular Property Prediction.**  
+Lior Hirschfeld, Kyle Swanson, Kevin Yang, Regina Barzilay, Connor W. Coley.
+*Journal of Chemical Information and Modeling, July 2020.*  
+[[https://doi.org/10.1021/acs.jcim.0c00502](https://doi.org/10.1021/acs.jcim.0c00502)]
+
+
+**Gaussian Process Molecule Property Prediction with FlowMO.**  
+Henry B. Moss, Ryan-Rhys Griffiths.
+*Preprint, Oct 2020.*  
+[[https://arxiv.org/abs/2010.01118](https://arxiv.org/abs/2010.01118)]
+
+
+### Uncertainty in the Input Features
+
+
+**Frog2: Efficient 3D conformation ensemble generator for small compounds.**  
+Maria A Miteva, Frederic Guyon, Pierre Tuffery.
+*Nucleic Acids Research, July 2010.*  
+[[https://doi.org/10.1093/nar/gkq325](https://doi.org/10.1093/nar/gkq325)]
+
+
+**Tautomerism of Warfarin: Combined Chemoinformatics, Quantum Chemical, and NMR Investigation.**  
+Laura Guasch, Megan L. Peach, Marc C. Nicklaus.
+*Journal of Organic Chemistry, Sept 2015.*  
+[[https://doi.org/10.1021/acs.joc.5b01370](https://doi.org/10.1021/acs.joc.5b01370)]
+
+
+**Bayesian Kernel Regression for Noisy Inputs Based on Nadaraya–Watson Estimator Constructed from Noiseless Training Data.**  
+Ryo Hanafusa, Takeshi Okadome.
+*Advances in Data Science and Adaptive Analysis, July 2002.*  
+[[https://doi.org/10.1142/S2424922X20500047](https://doi.org/10.1142/S2424922X20500047)]
+
+
+**Bayesian Gaussian Process Latent Variable Model.**  
+Michalis Titsias, Neil D. Lawrence.
+*International Conference on Artificial Intelligence and Statistics, 2010.*  
+[[http://proceedings.mlr.press/v9/titsias10a.html](http://proceedings.mlr.press/v9/titsias10a.html)]
+
+
+
+
+
+
+
+
+
+
 
