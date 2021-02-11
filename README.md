@@ -70,12 +70,65 @@ Daniel Reker, Gisbert Schneider.
 [[https://doi.org/10.1016/j.drudis.2014.12.004](https://doi.org/10.1016/j.drudis.2014.12.004)]
 
 
-**A review on Gaussian Process Latent Variable Models.**  
-Ping Li, Songcan Chen.
+**Machine learning in computational docking.**  
+Mohamed A.Khamis, Walid Gomaa, Walaa F. Ahmed.
 *CAAI, October 2016.*  
-[[https://doi.org/10.1016/j.trit.2016.11.004](https://doi.org/10.1016/j.trit.2016.11.004)]
+[[https://doi.org/10.1016/j.artmed.2015.02.002](https://doi.org/10.1016/j.artmed.2015.02.002)]
 
 
+**Methodological uncertainties in drug-receptor binding free energy predictions based on classical molecular dynamics.**  
+PieroProcacci.
+*Current Opinion in Structural Biology, April 2021.*  
+[[https://doi.org/10.1016/j.sbi.2020.08.001](https://doi.org/10.1016/j.sbi.2020.08.001)]
+
+
+**Binding Affinity via Docking: Fact and Fiction.**  
+Tatu Pantsar, Antti Poso.
+*Molecules, July 2018.*  
+[[https://doi.org/10.3390/molecules23081899](https://doi.org/10.3390/molecules23081899)]
+
+
+**Chapter 4 Alchemical Free Energy Calculations: Ready for Prime Time?.**  
+Michael R.Shirts, David L.Mobley, John D.Chodera.
+*Annual Reports in Computational Chemistry, 2007.*  
+[[https://doi.org/10.1016/S1574-1400(07)03004-6](https://doi.org/10.1016/S1574-1400(07)03004-6)]
+
+
+**An introduction to best practices in free energy calculations.**  
+Michael R Shirts, David L Mobley.
+*Methods Mol Biol, 2013.*  
+[[https://doi.org/10.1007/978-1-62703-017-5_11](https://doi.org/10.1007/978-1-62703-017-5_11)]
+
+
+** Calculation of Binding Free Energies.**  
+Vytautas Gapsys, Servaas Michielssens, Jan Henning Peters, Bert L de Groot, Hadas Leonov.
+*Methods Mol Biol, 2015.*  
+[[https://doi.org/10.1007/978-1-4939-1465-4_9](https://doi.org/10.1007/978-1-4939-1465-4_9)]
+
+
+**Rigorous Free Energy Simulations in Virtual Screening.**  
+Zoe Cournia, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, Woody Sherman.
+*J Chem Inf Model, June 2020.*  
+[[https://doi.org/10.1021/acs.jcim.0c00116](https://doi.org/10.1021/acs.jcim.0c00116)]
+
+
+
+**Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field.**  
+Wang et al.
+*Journal of the American Chemical Society, Jan 2015.*  
+[[https://doi.org/10.1021/ja512751q](https://doi.org/10.1021/ja512751q)]
+
+
+**Accurate calculation of the absolute free energy of binding for drug molecules.**  
+Matteo Aldeghi, Alexander Heifetz, Michael J. Bodkin, Stefan Knappcd, Philip C. Biggin.
+*Chemical Science, May 2011.*  
+[[https://doi.org/10.1039/C5SC02678D](https://doi.org/10.1039/C5SC02678D)]
+
+
+**How Does a Drug Molecule Find Its Target Binding Site?.**  
+Yibing Shan, Eric T. Kim, Michael P. Eastwood, Ron O. Dror, Markus A. Seeliger, David E. Shaw.
+*Journal of the American Chemical Society, Sept 2015.*  
+[[https://doi.org/10.1021/ja202726y](https://doi.org/10.1021/ja202726y)]
 
 ### Datasets and Induced Bias Discussion: 
 
@@ -393,40 +446,64 @@ Simon Axelrod, Rafael Gomez-Bombarelli.
 ### Binding Affinities
 
 
-**Molecular machine learning with conformer ensembles.**  
-Simon Axelrod, Rafael Gomez-Bombarelli.
-*Preprint, Dec 2010.*  
-[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+** AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading.**  
+Oleg Trott, Arthur J. Olson.
+*J Comput Chem, Jan 2010.*  
+[[https://doi.org/10.1002/jcc.21334](https://doi.org/10.1002/jcc.21334)]
 
 
-**Molecular machine learning with conformer ensembles.**  
-Simon Axelrod, Rafael Gomez-Bombarelli.
-*Preprint, Dec 2010.*  
-[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+**Glide:  A New Approach for Rapid, Accurate Docking and Scoring. 1. Method and Assessment of Docking Accuracy.**  
+Richard A. Friesner, Jay L. Banks, Robert B. Murphy, Thomas A. Halgren, Jasna J. Klicic, Daniel T. Mainz, Matthew P. Repasky, Eric H. Knoll, Mee Shelley, Jason K. Perry, David E. Shaw, Perry Francis, Peter S. Shenkin.
+*Journal of Medicinal Chemistry, Feb 2004.*  
+[[https://doi.org/10.1021/jm0306430](https://doi.org/10.1021/jm0306430)]
 
 
-**Molecular machine learning with conformer ensembles.**  
-Simon Axelrod, Rafael Gomez-Bombarelli.
-*Preprint, Dec 2010.*  
-[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+**Surflex-Dock: Docking benchmarks and real-world application.**  
+Russell Spitzer, Ajay N Jain.
+*J Comput Aided Mol Des, June 2012.*  
+[[https://doi.org/10.1007/s10822-011-9533-y](https://doi.org/10.1007/s10822-011-9533-y)]
 
 
-**Molecular machine learning with conformer ensembles.**  
-Simon Axelrod, Rafael Gomez-Bombarelli.
-*Preprint, Dec 2010.*  
-[[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
+**Improved protein-ligand docking using GOLD.**  
+Marcel L Verdonk, Jason C Cole, Michael J Hartshorn, Christopher W Murray, Richard D Taylor.
+*Proteins, Sept 2003.*  
+[[https://doi.org/10.1002/prot.10465](https://doi.org/10.1002/prot.10465)]
 
 
+**Comparative assessment of scoring functions on a diverse test set.**  
+Tiejun Cheng, Xun Li, Yan Li, Zhihai Liu, Renxiao Wang.
+*J Chem Inf Model, April 2009.*  
+[[https://doi.org/10.1021/ci9000053](https://doi.org/10.1021/ci9000053)]
 
 
+**Comparative Assessment of Scoring Functions on an Updated Benchmark: 2. Evaluation Methods and General Results.**  
+Yan Li, Li Han, Zhihai Liu, Renxiao Wang.
+*J Chem Inf Model, April 2014.*  
+[[https://doi.org/10.1021/ci500081m](https://doi.org/10.1021/ci500081m)]
 
 
+**KDEEP: Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks.**  
+José Jiménez, Miha Škalič, Gerard Martínez-Rosell, Gianni De Fabritiis.
+*J Chem Inf Model, Jan 2018.*  
+[[https://doi.org/10.1021/acs.jcim.7b00650](https://doi.org/10.1021/acs.jcim.7b00650)]
 
 
+**Combining Docking Pose Rank and Structure with Deep Learning Improves Protein–Ligand Binding Mode Prediction over a Baseline Docking Approach.**  
+Joseph A. Morrone*, Jeffrey K. Weber, Tien Huynh, Heng Luo, and Wendy D. Cornell.
+*J Chem Inf Model, Feb 2020.*  
+[[https://doi.org/10.1021/acs.jcim.9b00927](https://doi.org/10.1021/acs.jcim.9b00927)]
 
 
+**High‐Temperature Equation of State by a Perturbation Method. I. Nonpolar Gases.**  
+Robert W. Zwanzig.
+*J. Chem. Phys, 1954.*  
+[[https://doi.org/10.1063/1.1740409](https://doi.org/10.1063/1.1740409)]
 
 
+**Statistical Mechanics of Fluid Mixtures.**  
+Robert W. Zwanzig.
+*J. Chem. Phys, 1935.*  
+[[https://doi.org/10.1063/1.1749657](https://doi.org/10.1063/1.1749657)]
 
 
 
