@@ -130,6 +130,19 @@ Yibing Shan, Eric T. Kim, Michael P. Eastwood, Ron O. Dror, Markus A. Seeliger, 
 *Journal of the American Chemical Society, Sept 2015.*  
 [[https://doi.org/10.1021/ja202726y](https://doi.org/10.1021/ja202726y)]
 
+
+**Inverse molecular design using machine learning: Generative models for matter engineering.**  
+Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik.
+*Science, July 2018.*  
+[[https://doi.org/10.1126/science.aat2663](https://doi.org/10.1126/science.aat2663)]
+
+
+**Data-Driven Strategies for Accelerated Materials Design.**  
+Robert Pollice, Gabriel dos Passos Gomes, Matteo Aldeghi, Riley J. Hickman, Mario Krenn, Cyrille Lavigne, Michael Lindner-D’Addario, AkshatKumar Nigam, Cher Tian Ser, Zhenpeng Yao, Alán Aspuru-Guzik.
+*Accounts of Chemical Research, Feb 2021.*  
+[https://doi.org/10.1021/acs.accounts.0c00785](https://doi.org/10.1021/acs.accounts.0c00785)]
+
+
 ### Datasets and Induced Bias Discussion: 
 
 **Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening.**  
@@ -505,6 +518,218 @@ Robert W. Zwanzig.
 *J. Chem. Phys, 1935.*  
 [[https://doi.org/10.1063/1.1749657](https://doi.org/10.1063/1.1749657)]
 
+
+**THE weighted histogram analysis method for free‐energy calculations on biomolecules. I. The method.**  
+Shankar Kumar  John M. Rosenberg  Djamal Bouzida  Robert H. Swendsen  Peter A. Kollman.
+*J. Comp. Chem., Oct 1992.*  
+[[https://doi.org/10.1002/jcc.540130812](https://doi.org/10.1002/jcc.540130812)]
+
+
+**Efficient estimation of free energy differences from Monte Carlo data.**  
+Charles HBennett.
+*Journal of Computational Physics, Oct 1976.*  
+[[https://doi.org/10.1016/0021-9991(76)90078-4](https://doi.org/10.1016/0021-9991(76)90078-4)]
+
+
+**Statistically optimal analysis of samples from multiple equilibrium states.**  
+Charles HBennett.
+*J. Chem. Phys, Sept 2008.*  
+[[https://doi.org/10.1063/1.2978177](https://doi.org/10.1063/1.2978177)]
+
+
+**Multiensemble Markov models of molecular thermodynamics and kinetics.**  
+Hao Wu, Fabian Paul, Christoph Wehmeyer, Frank Noé.
+*PNAS, April 2016.*  
+[[https://doi.org/10.1073/pnas.1525092113](https://doi.org/10.1073/pnas.1525092113)]
+
+
+**Free Energies from Dynamic Weighted Histogram Analysis Using Unbiased Markov State Model.**  
+Edina Rosta, Gerhard Hummer.
+*Journal of Chemical Theory and Computation, Dec 2014.*  
+[[https://doi.org/10.1021/ct500719p](https://doi.org/10.1021/ct500719p)]
+
+
+**Best Practices for Quantification of Uncertainty and Sampling Quality in Molecular Simulations [Article v1.0].**  
+Alan Grossfield, Paul N Patrone, Daniel R Roe, Andrew J Schultz, Daniel W Siderius, Daniel M Zuckerman.
+*JLiving J Comput Mol Sci, Oct 2018.*  
+[[https://doi.org/10.33011/livecoms.1.1.5067](https://doi.org/10.33011/livecoms.1.1.5067)]
+
+
+**A Simple Method for Automated Equilibration Detection in Molecular Simulations.**  
+John D. Chodera.
+*Journal of Chemical Theory and Computation, Jan 2016.*  
+[[https://doi.org/10.1021/acs.jctc.5b00784](https://doi.org/10.1021/acs.jctc.5b00784)]
+
+
+**Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences.**  
+Gavin E. Crooks.
+*Physical Review E, Sept 1999.*  
+[[https://doi.org/10.1103/PhysRevE.60.2721](https://doi.org/10.1103/PhysRevE.60.2721)]
+
+
+**Large scale relative protein ligand binding affinities using non-equilibrium alchemy.**  
+Vytautas Gapsys, Laura Pérez-Benito, Matteo Aldeghi, Daniel Seeliger, Herman van Vlijmen, Gary Tresadern, Bert L. de Groot.
+*Chemical Science, Dec 2019.*  
+[https://doi.org/10.1039/C9SC03754C](https://doi.org/10.1039/C9SC03754C)]
+
+
+**Challenges Encountered Applying Equilibrium and Non-Equilibrium Binding Free Energy Calculations.**  
+Hannah Baumann, Vytautas Gapsys, Bert L. de Groot, David Mobley.
+*Preprint, Nov 2020.*  
+[https://doi.org/10.26434/chemrxiv.13225181.v1](https://doi.org/10.26434/chemrxiv.13225181.v1)]
+
+
+**Non-equilibrium approach for binding free energies in cyclodextrins in SAMPL7: force fields and software.**  
+Yuriy Khalak, Gary Tresadern, Bert L. de Groot, Vytautas Gapsys.
+*Journal of Computer-Aided Molecular Design , Nov 2020.*  
+[https://doi.org/10.1007/s10822-020-00359-1](https://doi.org/10.1007/s10822-020-00359-1)]
+
+
+**On the importance of statistics in molecular simulations for thermodynamics, kinetics and simulation box size.**  
+Vytautas Gapsys, Bert L de Groot.
+*eLife, Aug 2020.*  
+[https://doi.org/10.7554/eLife.57589](https://doi.org/10.7554/eLife.57589)]
+
+
+**Lessons learned from comparing molecular dynamics engines on the SAMPL5 dataset.**  
+Michael R. Shirts, Christoph Klein, Jason M. Swails, Jian Yin, Michael K. Gilson, David L. Mobley, David A. Case, Ellen D. Zhong.
+*Journal of Computer-Aided Molecular Design, Oct 2016.*  
+[https://doi.org/10.1007/s10822-016-9977-1](https://doi.org/10.1007/s10822-016-9977-1)]
+
+
+**Testing for physical validity in molecular simulations.**  
+Pascal T. Merz,Michael R. Shirts.
+*PLOS ONE, Oct 2016.*  
+[https://doi.org/10.1371/journal.pone.0202764](https://doi.org/10.1371/journal.pone.0202764)]
+
+
+**New developments in force fields for biomolecular simulations.**  
+Paul S Nerenberg , Teresa Head-Gordon.
+*Curr Opin Struct Biol, April 2018.*  
+[https://doi.org/10.1016/j.sbi.2018.02.002](https://doi.org/10.1016/j.sbi.2018.02.002)]
+
+
+**Are Protein Force Fields Getting Better? A Systematic Benchmark on 524 Diverse NMR Measurements.**  
+Kyle A Beauchamp, Yu-Shan Lin, Rhiju Das, Vijay S Pande.
+*J Chem Theory Comput., Oct 2018.*  
+[https://doi.org/10.1021/ct2007814](https://doi.org/10.1021/ct2007814)]
+
+
+**Escaping Atom Types in Force Fields Using Direct Chemical Perception.**  
+David L. Mobley, Caitlin C. Bannan, Andrea Rizzi, Christopher I. Bayly, John D. Chodera, Victoria T. Lim, Nathan M. Lim, Kyle A. Beauchamp, David R. Slochower, Michael R. Shirts, Michael K. Gilson, Peter K. Eastman.
+*Journal of Chemical Theory and Computation, April 2012.*  
+[https://doi.org/10.1021/acs.jctc.8b00640](https://doi.org/10.1021/acs.jctc.8b00640)]
+
+
+**Building Force Fields: An Automatic, Systematic, and Reproducible Approach.**  
+Lee-Ping Wang, Todd J. Martinez, Vijay S. Pande.
+*The Journal of Physical Chemistry Letters, May 2014.*  
+[https://doi.org/10.1021/jz500737m](https://doi.org/10.1021/jz500737m)]
+
+
+**Building a More Predictive Protein Force Field: A Systematic and Reproducible Route to AMBER-FB15.**  
+Lee-Ping Wang†Orcid, Keri A. McKiernan, Joseph Gomes, Kyle A. Beauchamp, Teresa Head-Gordon, Julia E. Rice, William C. Swope, Todd J. Martínez, Vijay S. Pande.
+*The Journal of Physical Chemistry B, March 2017.*  
+[https://doi.org/10.1021/acs.jpcb.7b02320](https://doi.org/10.1021/acs.jpcb.7b02320)]
+
+
+**Systematic Optimization of Water Models Using Liquid/Vapor Surface Tension Data.**  
+Yudong Qiu, Paul S. Nerenberg, Teresa Head-Gordon, Lee-Ping Wang.
+*The Journal of Physical Chemistry B, July 2019.*  
+[https://doi.org/10.1021/acs.jpcb.9b05455](https://doi.org/10.1021/acs.jpcb.9b05455)]
+
+
+**Current Status of the AMOEBA Polarizable Force Field.**  
+Ponder et al.
+*J. Phys. Chem. B, Feb 2010.*  
+[https://doi.org/10.1021/jp910674d](https://doi.org/10.1021/jp910674d)]
+
+
+**AMOEBA binding free energies for the SAMPL7 TrimerTrip host–guest challenge.**  
+Yuanjun Shi, Marie L. Laury, Zhi Wang, Jay W. Ponder.
+*Journal of Computer-Aided Molecular Design, Nov 2020.*  
+[https://doi.org/10.1007/s10822-020-00358-2](https://doi.org/10.1007/s10822-020-00358-2)]
+
+
+**ANI-1: an extensible neural network potential with DFT accuracy at force field computational cost.**  
+J. S. Smith, O. Isayev, A. E. Roitberg.
+*Chemical Science, Feb 2017.*  
+[https://doi.org/10.1039/C6SC05720A](https://doi.org/10.1039/C6SC05720A)]
+
+
+**Simulating protein–ligand binding with neural network potentials.**  
+Shae-Lynn J. Lahey, Christopher N. Rowley.
+*Chemical Science, Jan 2020.*  
+[https://doi.org/10.1039/C9SC06017K](https://doi.org/10.1039/C9SC06017K)]
+
+
+**Assessing the accuracy of octanol–water partition coefficient predictions in the SAMPL6 Part II log P Challenge.**  
+Mehtap Işık, Teresa Danielle Bergazin, Thomas Fox, Andrea Rizzi, John D. Chodera, David L. Mobley.
+*Journal of Computer-Aided Molecular Design, Feb 2020.*  
+[https://doi.org/10.1007/s10822-020-00295-0](https://doi.org/10.1007/s10822-020-00295-0)]
+
+
+### Generative Models
+
+
+**Auto-Encoding Variational Bayes.**  
+Diederik P Kingma, Max Welling.
+*Preprint, May 2014.*  
+[https://arxiv.org/abs/1312.6114](https://arxiv.org/abs/1312.6114)]
+
+
+**Generative Adversarial Networks.**  
+Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.
+*Preprint, June 2014.*  
+[https://arxiv.org/abs/1406.2661](https://arxiv.org/abs/1406.2661)]
+
+
+**Reinforcement Learning: An Introduction.**  
+Richard S. Sutton, Andrew G. Barto.
+*MIT Press, 2018.*  
+[http://incompleteideas.net/book/the-book.html](http://incompleteideas.net/book/the-book.html)]
+
+
+**An Introduction to Genetic Algorithms.**  
+Melanie Mitchell.
+*MIT Press, 1998.*  
+[https://mitpress.mit.edu/books/introduction-genetic-algorithms](https://mitpress.mit.edu/books/introduction-genetic-algorithms)]
+
+
+**Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules.**  
+Rafael Gómez-Bombarelli, Jennifer N. Wei, David Duvenaud, José Miguel Hernández-Lobato, Benjamín Sánchez-Lengeling, Dennis Sheberla, Jorge Aguilera-Iparraguirre, Timothy D. Hirzel, Ryan P. Adams, Alán Aspuru-Guzik.
+*ACS Central Science, Jan 2018.*  
+[https://doi.org/10.1021/acscentsci.7b00572](https://doi.org/10.1021/acscentsci.7b00572)]
+
+
+**Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models.**  
+Gabriel Lima Guimaraes, Benjamin Sanchez-Lengeling, Carlos Outeiral, Pedro Luis Cunha Farias, Alán Aspuru-Guzik.
+*Preprint, Feb 2018.*  
+[https://arxiv.org/abs/1705.10843](https://arxiv.org/abs/1705.10843)]
+
+
+**Optimizing distributions over molecular space. An Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry (ORGANIC).**  
+Benjamin Sanchez-Lengeling, Carlos Outeiral, Gabriel L. Guimaraes, Alan Aspuru-Guzik.
+*Preprint, Aug 2017.*  
+[https://doi.org/10.26434/chemrxiv.5309668.v3](https://doi.org/10.26434/chemrxiv.5309668.v3)]
+
+
+**Self-referencing embedded strings (SELFIES): A 100% robust molecular string representation.**  
+Mario Krenn, Florian Häse, AkshatKumar Nigam, Pascal Friederich, Alan Aspuru-Guzik.
+*MLST, Oct 2020.*  
+[https://iopscience.iop.org/article/10.1088/2632-2153/aba947](https://iopscience.iop.org/article/10.1088/2632-2153/aba947)]
+
+
+**Beyond Generative Models: Superfast Traversal, Optimization, Novelty, Exploration and Discovery (STONED) Algorithm for Molecules using SELFIES.**  
+AkshatKumar Nigam, Robert Pollice, Mario Krenn, Gabriel dos Passos Gomes, Alan Aspuru-Guzik.
+*Preprint, Jan 2021.*  
+[https://doi.org/10.26434/chemrxiv.13383266.v2](https://doi.org/10.26434/chemrxiv.13383266.v2)]
+
+
+**Deep Molecular Dreaming: Inverse machine learning for de-novo molecular design and interpretability with surjective representations.**  
+Cynthia Shen, Mario Krenn, Sagi Eppel, Alan Aspuru-Guzik.
+*Preprint, Dec 2020.*  
+[https://arxiv.org/abs/2012.09712](https://arxiv.org/abs/2012.09712)]
 
 
 
