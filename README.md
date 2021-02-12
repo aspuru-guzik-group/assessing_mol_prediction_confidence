@@ -40,6 +40,18 @@ Chenjing CaiChenjing Cai, Shiwei Wang, Youjun Xu, Weilin Zhang, Ke Tang, Qi Ouya
 [[https://doi.org/10.1021/acs.jmedchem.9b02147](https://doi.org/10.1021/acs.jmedchem.9b02147)]
 
 
+**Artificial Intelligence in Drug Discovery.**  
+Nathan Brown.
+*Royal Society of Chemistry, Nov 2020.*  
+[[https://pubs.rsc.org/en/content/ebook/978-1-78801-547-9](https://pubs.rsc.org/en/content/ebook/978-1-78801-547-9)]
+
+
+**Deep Learning for the Life Sciences.**  
+Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande.
+*O'Reilly Media, Apr 2019.*  
+[[https://www.oreilly.com/library/view/deep-learning-for/9781492039822/](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/)]
+
+
 **Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods.**  
 Eyke Hullermeier, Willem Waegeman
 *Preprint, Sept 2020.*  
