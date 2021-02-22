@@ -23,134 +23,134 @@ Ian Goodfellow, Yoshua Bengio, Aaron Courville.
 [[Book](https://www.deeplearningbook.org/)]
 
 **QSAR without borders.**  
-Eugene N. Muratov, Jurgen Bajorath, Robert P. Sheridan, Igor V. Tetko, Dmitry Filimonov, Vladimir Poroikov, Tudor I. Oprea, Igor I. Baskin, Alexandre Varnek, Adrian Roitberg, Olexandr Isayev, Stefano Curtalolo, Denis Fourches, Yoram Cohen, Alan Aspuru-Guzik, David A. Winkler, Dimitris Agrafiotis, Artem Cherkasov, Alexander Tropsha. 
+Eugene N. Muratov, Jurgen Bajorath, Robert P. Sheridan, Igor V. Tetko, Dmitry Filimonov, Vladimir Poroikov, Tudor I. Oprea, Igor I. Baskin, Alexandre Varnek, Adrian Roitberg, Olexandr Isayev, Stefano Curtalolo, Denis Fourches, Yoram Cohen, Alan Aspuru-Guzik, David A. Winkler, Dimitris Agrafiotis, Artem Cherkasov, Alexander Tropsha.\
 *Chemical Society Reviews, May 2020.*  
 [[https://doi.org/10.1039/D0CS00098A](https://doi.org/10.1039/D0CS00098A)]
 
 
 **A survey on transfer learning.**  
-Sinno Jialin Pan, Qiang Yang. 
+Sinno Jialin Pan, Qiang Yang.\
 *IEEE, October 2009.*  
 [[https://ieeexplore.ieee.org/abstract/document/5288526](https://ieeexplore.ieee.org/abstract/document/5288526)]
 
 
 **Transfer Learning for Drug Discovery.**  
-Chenjing CaiChenjing Cai, Shiwei Wang, Youjun Xu, Weilin Zhang, Ke Tang, Qi Ouyang, Luhua Lai, Jianfeng Pei. 
+Chenjing CaiChenjing Cai, Shiwei Wang, Youjun Xu, Weilin Zhang, Ke Tang, Qi Ouyang, Luhua Lai, Jianfeng Pei.\
 *Journal of Medicinal Chemistry, July 2020.*  
 [[https://doi.org/10.1021/acs.jmedchem.9b02147](https://doi.org/10.1021/acs.jmedchem.9b02147)]
 
 
 **Artificial Intelligence in Drug Discovery.**  
-Nathan Brown.
+Nathan Brown.\
 *Royal Society of Chemistry, Nov 2020.*  
 [[https://pubs.rsc.org/en/content/ebook/978-1-78801-547-9](https://pubs.rsc.org/en/content/ebook/978-1-78801-547-9)]
 
 
 **Deep Learning for the Life Sciences.**  
-Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande.
+Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande.\
 *O'Reilly Media, Apr 2019.*  
 [[https://www.oreilly.com/library/view/deep-learning-for/9781492039822/](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/)]
 
 
 **Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods.**  
-Eyke Hullermeier, Willem Waegeman
+Eyke Hullermeier, Willem Waegeman\
 *Preprint, Sept 2020.*  
 [[https://arxiv.org/abs/1910.09457](https://arxiv.org/abs/1910.09457)]
 
 
 **Random Forests.**  
-Leo Breiman.
+Leo Breiman.\
 *Machine Learning, Oct 2001.*  
 [[https://doi.org/10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)]
 
 
 **Gaussian Processes for Machine Learning.**  
-Carl Edward Rasmussen, Christopher K. I. Williams.
+Carl Edward Rasmussen, Christopher K. I. Williams.\
 *MIT Press, Feb 2003.*  
 [[https://mitpress.mit.edu/books/gaussian-processes-machine-learning](https://mitpress.mit.edu/books/gaussian-processes-machine-learning)]
 
 
 **Active Learning.**  
-Burr Settles.
+Burr Settles.\
 *Synthesis Lectures on Artificial Intelligence and Machine Learning, June 2012.*  
 [[https://doi.org/10.2200/S00429ED1V01Y201207AIM018](https://doi.org/10.2200/S00429ED1V01Y201207AIM018)]
 
 
 **Active-learning strategies in computer-assisted drug discovery.**  
-Daniel Reker, Gisbert Schneider.
+Daniel Reker, Gisbert Schneider.\
 *Drug Discovery Today, April 2015.*  
 [[https://doi.org/10.1016/j.drudis.2014.12.004](https://doi.org/10.1016/j.drudis.2014.12.004)]
 
 
 **Machine learning in computational docking.**  
-Mohamed A.Khamis, Walid Gomaa, Walaa F. Ahmed.
+Mohamed A.Khamis, Walid Gomaa, Walaa F. Ahmed.\
 *CAAI, October 2016.*  
 [[https://doi.org/10.1016/j.artmed.2015.02.002](https://doi.org/10.1016/j.artmed.2015.02.002)]
 
 
 **Methodological uncertainties in drug-receptor binding free energy predictions based on classical molecular dynamics.**  
-PieroProcacci.
+PieroProcacci.\
 *Current Opinion in Structural Biology, April 2021.*  
 [[https://doi.org/10.1016/j.sbi.2020.08.001](https://doi.org/10.1016/j.sbi.2020.08.001)]
 
 
 **Binding Affinity via Docking: Fact and Fiction.**  
-Tatu Pantsar, Antti Poso.
+Tatu Pantsar, Antti Poso.\
 *Molecules, July 2018.*  
 [[https://doi.org/10.3390/molecules23081899](https://doi.org/10.3390/molecules23081899)]
 
 
 **Chapter 4 Alchemical Free Energy Calculations: Ready for Prime Time?.**  
-Michael R.Shirts, David L.Mobley, John D.Chodera.
+Michael R.Shirts, David L.Mobley, John D.Chodera.\
 *Annual Reports in Computational Chemistry, 2007.*  
 [[https://doi.org/10.1016/S1574-1400(07)03004-6](https://doi.org/10.1016/S1574-1400(07)03004-6)]
 
 
 **An introduction to best practices in free energy calculations.**  
-Michael R Shirts, David L Mobley.
+Michael R Shirts, David L Mobley.\
 *Methods Mol Biol, 2013.*  
 [[https://doi.org/10.1007/978-1-62703-017-5_11](https://doi.org/10.1007/978-1-62703-017-5_11)]
 
 
 **Calculation of Binding Free Energies.**  
-Vytautas Gapsys, Servaas Michielssens, Jan Henning Peters, Bert L de Groot, Hadas Leonov.
+Vytautas Gapsys, Servaas Michielssens, Jan Henning Peters, Bert L de Groot, Hadas Leonov.\
 *Methods Mol Biol, 2015.*  
 [[https://doi.org/10.1007/978-1-4939-1465-4_9](https://doi.org/10.1007/978-1-4939-1465-4_9)]
 
 
 **Rigorous Free Energy Simulations in Virtual Screening.**  
-Zoe Cournia, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, Woody Sherman.
+Zoe Cournia, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, Woody Sherman.\
 *J Chem Inf Model, June 2020.*  
 [[https://doi.org/10.1021/acs.jcim.0c00116](https://doi.org/10.1021/acs.jcim.0c00116)]
 
 
 
 **Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field.**  
-Wang et al.
+Wang et al.\
 *Journal of the American Chemical Society, Jan 2015.*  
 [[https://doi.org/10.1021/ja512751q](https://doi.org/10.1021/ja512751q)]
 
 
 **Accurate calculation of the absolute free energy of binding for drug molecules.**  
-Matteo Aldeghi, Alexander Heifetz, Michael J. Bodkin, Stefan Knappcd, Philip C. Biggin.
+Matteo Aldeghi, Alexander Heifetz, Michael J. Bodkin, Stefan Knappcd, Philip C. Biggin.\
 *Chemical Science, May 2011.*  
 [[https://doi.org/10.1039/C5SC02678D](https://doi.org/10.1039/C5SC02678D)]
 
 
 **How Does a Drug Molecule Find Its Target Binding Site?.**  
-Yibing Shan, Eric T. Kim, Michael P. Eastwood, Ron O. Dror, Markus A. Seeliger, David E. Shaw.
+Yibing Shan, Eric T. Kim, Michael P. Eastwood, Ron O. Dror, Markus A. Seeliger, David E. Shaw.\
 *Journal of the American Chemical Society, Sept 2015.*  
 [[https://doi.org/10.1021/ja202726y](https://doi.org/10.1021/ja202726y)]
 
 
 **Inverse molecular design using machine learning: Generative models for matter engineering.**  
-Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik.
+Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik.\
 *Science, July 2018.*  
 [[https://doi.org/10.1126/science.aat2663](https://doi.org/10.1126/science.aat2663)]
 
 
 **Data-Driven Strategies for Accelerated Materials Design.**  
-Robert Pollice, Gabriel dos Passos Gomes, Matteo Aldeghi, Riley J. Hickman, Mario Krenn, Cyrille Lavigne, Michael Lindner-D’Addario, AkshatKumar Nigam, Cher Tian Ser, Zhenpeng Yao, Alán Aspuru-Guzik.
+Robert Pollice, Gabriel dos Passos Gomes, Matteo Aldeghi, Riley J. Hickman, Mario Krenn, Cyrille Lavigne, Michael Lindner-D’Addario, AkshatKumar Nigam, Cher Tian Ser, Zhenpeng Yao, Alán Aspuru-Guzik.\
 *Accounts of Chemical Research, Feb 2021.*  
 [https://doi.org/10.1021/acs.accounts.0c00785](https://doi.org/10.1021/acs.accounts.0c00785)]
 
