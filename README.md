@@ -11,7 +11,7 @@
 
 ### Categories
 
-[Reviews/Books](#reviews)  
+[Reviews/Books](#reviews/books)  
 [Datasets and Induced Bias Discussion](#tools)  
 [Uncertainty in Outputs](#todo)  
 [Uncertainty in the Input Features](#todo)  
