@@ -112,7 +112,7 @@ Michael R Shirts, David L Mobley.
 [[https://doi.org/10.1007/978-1-62703-017-5_11](https://doi.org/10.1007/978-1-62703-017-5_11)]
 
 
-** Calculation of Binding Free Energies.**  
+**Calculation of Binding Free Energies.**  
 Vytautas Gapsys, Servaas Michielssens, Jan Henning Peters, Bert L de Groot, Hadas Leonov.
 *Methods Mol Biol, 2015.*  
 [[https://doi.org/10.1007/978-1-4939-1465-4_9](https://doi.org/10.1007/978-1-4939-1465-4_9)]
