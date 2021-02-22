@@ -13,7 +13,11 @@
 
 [Reviews/Books](#reviews)  
 [Datasets and Induced Bias Discussion](#tools)  
-[Uncertainty in Outputs](#todo)
+[Uncertainty in Outputs](#todo)  
+[Uncertainty in the Input Features](#todo)
+[Binding Affinities](#todo)
+[Generative Models](#todo)
+
 
 ### Reviews/Books
 
