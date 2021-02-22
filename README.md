@@ -12,11 +12,11 @@
 ### Categories
 
 [Reviews and Books](#reviews-and-books)  
-[Datasets and Induced Bias Discussion](#tools)  
-[Uncertainty in Outputs](#todo)  
-[Uncertainty in the Input Features](#todo)  
-[Binding Affinities](#todo)  
-[Generative Models](#todo)  
+[Datasets and Induced Bias Discussion](#datasets-and-induced-bias-discussion)  
+[Uncertainty in Outputs](#uncertainty-in-outputs)  
+[Uncertainty in the Input Features](#uncertainty-in-the-input-features)  
+[Binding Affinities](#binding-affinities)  
+[Generative Models](#generative-models)  
 
 
 ### Reviews and Books
