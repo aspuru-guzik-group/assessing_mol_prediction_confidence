@@ -11,7 +11,7 @@
 
 ### Categories
 
-[Reviews/Books](#reviews/books)  
+[Reviews and Books](#reviews-and-books)  
 [Datasets and Induced Bias Discussion](#tools)  
 [Uncertainty in Outputs](#todo)  
 [Uncertainty in the Input Features](#todo)  
@@ -19,7 +19,7 @@
 [Generative Models](#todo)  
 
 
-### Reviews/Books
+### Reviews and Books
 
 **Deep Learning.**  
 Ian Goodfellow, Yoshua Bengio, Aaron Courville.  
