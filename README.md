@@ -727,7 +727,7 @@ Gabriel Lima Guimaraes, Benjamin Sanchez-Lengeling, Carlos Outeiral, Pedro Luis 
 **Optimizing distributions over molecular space. An Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry (ORGANIC).**  
 Benjamin Sanchez-Lengeling, Carlos Outeiral, Gabriel L. Guimaraes, Alan Aspuru-Guzik.  
 *Preprint, Aug 2017.*  
-[https://doi.org/10.26434/chemrxiv.5309668.v3](https://doi.org/10.26434/chemrxiv.5309668.v3)]
+[[https://doi.org/10.26434/chemrxiv.5309668.v3](https://doi.org/10.26434/chemrxiv.5309668.v3)]
 
 
 **Self-referencing embedded strings (SELFIES): A 100% robust molecular string representation.**  
