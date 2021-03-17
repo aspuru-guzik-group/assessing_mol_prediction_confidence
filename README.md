@@ -475,7 +475,7 @@ Simon Axelrod, Rafael Gomez-Bombarelli.
 ### Binding Affinities
 
 
-** AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading.**  
+**AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading.**  
 Oleg Trott, Arthur J. Olson.  
 *J Comput Chem, Jan 2010.*  
 [[https://doi.org/10.1002/jcc.21334](https://doi.org/10.1002/jcc.21334)]
