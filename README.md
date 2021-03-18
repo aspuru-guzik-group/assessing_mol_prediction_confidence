@@ -2,12 +2,15 @@
 
 
 ### Background
-
+This repository contains the citations for the paper: [Assigning Confidence to Molecular Property Prediction](https://arxiv.org/pdf/2102.11439.pdf). With an ever-growing field, we hope that these references provide a good starting point. We encourage readers to contribute to this list!
+<img align="center" src="./images/toc.png"/>
 
 
 ### Format
+Within each category, papers are listed. Where possible, a link to the paper is provided. Please feel free to add additional references via pull requests! 
 
-
+### Questions, problems?
+Make a github issue 😄. Please be as clear and descriptive as possible. Please feel free to reach out in person: (akshat[DOT]nigam[AT]mail[DOT]utoronto[DOT]ca)
 
 ### Categories
 
