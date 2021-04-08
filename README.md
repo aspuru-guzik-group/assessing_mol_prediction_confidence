@@ -474,6 +474,10 @@ Simon Axelrod, Rafael Gomez-Bombarelli.
 [[https://arxiv.org/abs/2012.08452](https://arxiv.org/abs/2012.08452)]
 
 
+**Predicting drug properties with parameter-free machine learning: pareto-optimal embedded modeling (POEM)**
+Andrew E Brereton, Stephen MacKinnon, Zhaleh Safikhani, Shawn Reeves, Sana Alwash, Vijay Shahani and Andreas Windemuth.
+*Machine Learning: Science and Technology, May 2020.*
+[[https://doi.org/10.1088/2632-2153/ab891b](https://doi.org/10.1088/2632-2153/ab891b)]
 
 ### Binding Affinities
 
