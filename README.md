@@ -440,6 +440,11 @@ Henry B. Moss, Ryan-Rhys Griffiths.
 *Preprint, Oct 2020.*  
 [[https://arxiv.org/abs/2010.01118](https://arxiv.org/abs/2010.01118)]
 
+**Predicting drug properties with parameter-free machine learning: pareto-optimal embedded modeling (POEM).**  
+Andrew E Brereton, Stephen MacKinnon, Zhaleh Safikhani, Shawn Reeves, Sana Alwash, Vijay Shahani, and Andreas Windemuth.  
+*MLST, 2020.*  
+[[https://iopscience.iop.org/article/10.1088/2632-2153/ab891b](https://iopscience.iop.org/article/10.1088/2632-2153/ab891b)]
+
 
 ### Uncertainty in the Input Features
 
